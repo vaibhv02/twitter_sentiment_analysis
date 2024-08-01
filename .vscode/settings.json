@@ -1,0 +1,12 @@
+{
+"terminal.integrated.env.windows": {
+    "KAGGLE_CONFIG_DIR": "E:\\Twitter sentiment analysis"
+},
+"terminal.integrated.env.linux": {
+    "KAGGLE_CONFIG_DIR": "/mnt/e/Twitter sentiment analysis"
+},
+"terminal.integrated.env.osx": {
+    "KAGGLE_CONFIG_DIR": "/Volumes/E/Twitter sentiment analysis"
+}
+
+}
